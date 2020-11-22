@@ -1,2 +1,3 @@
-def show():
-    print("hello")
+def show(p):
+    for i in p:
+        print(i)
